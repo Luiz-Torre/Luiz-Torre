@@ -1,9 +1,6 @@
-## Hello 👋
+## Olá!! 👋
 
  
-### PT:
- 
-
 Olá sou Luiz Marcelo, desenvolvedor brasileiro, graduando em Ciência da Computação, tenho 21 anos, e possuo experiência em Python, C, Java, Ruby, JavaScript/TypeScript. 
 
 - Atualmente sou Estagiário da Globo.com.
